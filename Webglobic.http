@@ -1,0 +1,6 @@
+@Webglobic_HostAddress = http://localhost:5086
+
+GET {{Webglobic_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

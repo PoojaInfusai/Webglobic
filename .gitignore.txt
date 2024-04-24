@@ -1,0 +1,44 @@
+# .NET Core
+*.obj
+*.dll
+*.exe
+*.pdb
+*.user
+*.vscode
+*.vs
+*.bak
+bin/
+obj/
+TestResults/
+ 
+# .NET project folders
+[Bb]in/
+[Oo]bj/
+[Pp]ublish/
+[Tt]est[Rr]esults/
+node_modules/
+ 
+# Visual Studio files
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.bak
+ 
+# Visual Studio Code files
+.vscode/
+ 
+# Rider files
+.idea/
+ 
+# Miscellaneous
+*.log
+*.lock
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
